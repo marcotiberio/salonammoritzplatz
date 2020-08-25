@@ -44,9 +44,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 				<div class="tickerTape">
 					<span class="text">
-						<span>Salon AM Moritzplatz</span>
-						<span>Salon AM Moritzplatz</span>
-						<span>Salon AM Moritzplatz</span>
+						<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png" alt="">
 					<span>
 				</div>
 
