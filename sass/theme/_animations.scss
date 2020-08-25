@@ -39,21 +39,20 @@
 .tickerTape{
   width: 3000px;
   overflow: hidden;
-  margin: 50px auto;
-  background: white;
+  margin: 0;
 }
 .text {
-  height: 300px;
+  height: fit-content;
   width: 30000px;
 }
 
 /*keyframe animations*/
 .first {
-  -webkit-animation: bannermove 30s linear 1s infinite running;
-     -moz-animation: bannermove 30s linear 1s infinite running;
-      -ms-animation: bannermove 30s linear 1s infinite running;
-       -o-animation: bannermove 30s linear 1s infinite running;
-          animation: bannermove 30s linear 1s infinite running;
+  -webkit-animation: bannermove 400s linear 1s infinite running;
+     -moz-animation: bannermove 400s linear 1s infinite running;
+      -ms-animation: bannermove 400s linear 1s infinite running;
+       -o-animation: bannermove 400s linear 1s infinite running;
+          animation: bannermove 400s linear 1s infinite running;
 }
 
 @keyframes bannermove {
