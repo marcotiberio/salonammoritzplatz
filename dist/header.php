@@ -47,8 +47,6 @@ $container = get_theme_mod( 'understrap_container_type' );
 						<span>Salon AM Moritzplatz</span>
 						<span>Salon AM Moritzplatz</span>
 						<span>Salon AM Moritzplatz</span>
-						<span>Salon AM Moritzplatz</span>
-						<span>Salon AM Moritzplatz</span>
 					<span>
 				</div>
 
