@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Left Sidebar Layout
+ * Template Name: Home
  *
  * This template can be used to override the default template and sidebar setup
  *
