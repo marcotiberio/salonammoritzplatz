@@ -7053,4 +7053,3 @@
     }, false);
   }
 })();
-alert('Hello, world!');
