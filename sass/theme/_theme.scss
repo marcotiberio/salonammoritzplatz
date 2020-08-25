@@ -11,3 +11,20 @@ p {
 .navbar {
     padding: 0;
 }
+
+#main-menu {
+    position: fixed;
+    width: 30%;
+    left: 0;
+    top: 150px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    li {
+        font-family: $font-family-sans-serif;
+        font-weight: 800;
+        text-transform: uppercase;
+    }
+
+}
+
