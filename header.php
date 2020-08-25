@@ -43,7 +43,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 		<?php endif; ?>
 
 				<div class="tickerTape">
-					<span class="text">SALON AM MORITZPLATZ<span>
+					<span class="logo"><img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png" alt="SaM Logo"><span>
 				</div>
 
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="<?php esc_attr_e( 'Toggle navigation', 'understrap' ); ?>">
