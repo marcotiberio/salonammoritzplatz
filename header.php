@@ -44,15 +44,15 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 		<div class="tickerTapetickerTape">
 			<div class="text">
-			<img class="first" src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
-			<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
-			<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
-			<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
-			<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
-			<!-- repeated images below to keep up with animation -->
-			<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
-			<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
-			<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
+				<img class="first" src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
+				<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
+				<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
+				<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
+				<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
+				<!-- repeated images below to keep up with animation -->
+				<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
+				<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
+				<img src="https://www.salonammoritzplatz.com/wp-content/uploads/2020/08/header-logo.png">
 			</div>
 		</div>
 
